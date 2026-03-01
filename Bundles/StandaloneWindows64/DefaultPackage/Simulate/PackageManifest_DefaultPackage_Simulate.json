@@ -1,0 +1,1007 @@
+{
+    "FileVersion": "1.5.2",
+    "EnableAddressable": true,
+    "LocationToLower": false,
+    "IncludeAssetGUID": false,
+    "OutputNameStyle": 1,
+    "PackageName": "DefaultPackage",
+    "PackageVersion": "Simulate",
+    "AssetList": [
+        {
+            "Address": "UI_Bag",
+            "AssetPath": "Assets/Res/UI/Prefab/Bag/UI_Bag.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependIDs": []
+        },
+        {
+            "Address": "TextBlue",
+            "AssetPath": "Assets/Res/UI/Prefab/Common/Text/TextBlue.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependIDs": []
+        },
+        {
+            "Address": "TextGreen",
+            "AssetPath": "Assets/Res/UI/Prefab/Common/Text/TextGreen.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependIDs": []
+        },
+        {
+            "Address": "TextOrange",
+            "AssetPath": "Assets/Res/UI/Prefab/Common/Text/TextOrange.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependIDs": []
+        },
+        {
+            "Address": "TextPink",
+            "AssetPath": "Assets/Res/UI/Prefab/Common/Text/TextPink.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependIDs": []
+        },
+        {
+            "Address": "TextPurple",
+            "AssetPath": "Assets/Res/UI/Prefab/Common/Text/TextPurple.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependIDs": []
+        },
+        {
+            "Address": "TextRed",
+            "AssetPath": "Assets/Res/UI/Prefab/Common/Text/TextRed.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependIDs": []
+        },
+        {
+            "Address": "TextWhite",
+            "AssetPath": "Assets/Res/UI/Prefab/Common/Text/TextWhite.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependIDs": []
+        },
+        {
+            "Address": "UIRawImageGaussianBlur",
+            "AssetPath": "Assets/Res/UI/Prefab/Common/UIRawImageGaussianBlur.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2,
+            "DependIDs": []
+        },
+        {
+            "Address": "EquipInfoLine",
+            "AssetPath": "Assets/Res/UI/Prefab/Equip/Common/EquipInfoLine.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 3,
+            "DependIDs": []
+        },
+        {
+            "Address": "UIEquipInfo",
+            "AssetPath": "Assets/Res/UI/Prefab/Equip/UIEquipInfo.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 4,
+            "DependIDs": []
+        },
+        {
+            "Address": "UI_Fight",
+            "AssetPath": "Assets/Res/UI/Prefab/Fight/UI_Fight.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 5,
+            "DependIDs": []
+        },
+        {
+            "Address": "UI_Dialog",
+            "AssetPath": "Assets/Res/UI/Prefab/Generic/UI_Dialog.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 6,
+            "DependIDs": []
+        },
+        {
+            "Address": "UI_HeroSelect",
+            "AssetPath": "Assets/Res/UI/Prefab/Hero/UI_HeroSelect.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 7,
+            "DependIDs": []
+        },
+        {
+            "Address": "UI_Home",
+            "AssetPath": "Assets/Res/UI/Prefab/Home/UI_Home.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8,
+            "DependIDs": []
+        },
+        {
+            "Address": "UI_Illustration",
+            "AssetPath": "Assets/Res/UI/Prefab/Illustration/UI_Illustration.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 9,
+            "DependIDs": []
+        },
+        {
+            "Address": "UI_LevelMap",
+            "AssetPath": "Assets/Res/UI/Prefab/Level/UI_LevelMap.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 10,
+            "DependIDs": []
+        },
+        {
+            "Address": "UI_LevelSelect",
+            "AssetPath": "Assets/Res/UI/Prefab/Level/UI_LevelSelect.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 10,
+            "DependIDs": []
+        },
+        {
+            "Address": "UI_BlackLoading",
+            "AssetPath": "Assets/Res/UI/Prefab/Loading/UI_BlackLoading.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 11,
+            "DependIDs": []
+        },
+        {
+            "Address": "UI_Loading",
+            "AssetPath": "Assets/Res/UI/Prefab/Loading/UI_Loading.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 11,
+            "DependIDs": []
+        },
+        {
+            "Address": "UI_Main",
+            "AssetPath": "Assets/Res/UI/Prefab/Main/UI_Main.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 12,
+            "DependIDs": []
+        },
+        {
+            "Address": "UI_Setting",
+            "AssetPath": "Assets/Res/UI/Prefab/Setting/UI_Setting.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 13,
+            "DependIDs": []
+        },
+        {
+            "Address": "audio_audioconfig",
+            "AssetPath": "Assets/Res/DataTable/audio_audioconfig.json",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 14,
+            "DependIDs": []
+        },
+        {
+            "Address": "enemy_enemyconfig",
+            "AssetPath": "Assets/Res/DataTable/enemy_enemyconfig.json",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 14,
+            "DependIDs": []
+        },
+        {
+            "Address": "entity_entityconfig",
+            "AssetPath": "Assets/Res/DataTable/entity_entityconfig.json",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 14,
+            "DependIDs": []
+        },
+        {
+            "Address": "level_levelconfig",
+            "AssetPath": "Assets/Res/DataTable/level_levelconfig.json",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 14,
+            "DependIDs": []
+        },
+        {
+            "Address": "bg1",
+            "AssetPath": "Assets/Res/Art/Sprite/UI/Bg/bg1.jpeg",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 15,
+            "DependIDs": []
+        },
+        {
+            "Address": "bg2",
+            "AssetPath": "Assets/Res/Art/Sprite/UI/Bg/bg2.jpeg",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 15,
+            "DependIDs": []
+        },
+        {
+            "Address": "bg3",
+            "AssetPath": "Assets/Res/Art/Sprite/UI/Bg/bg3.jpeg",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 15,
+            "DependIDs": []
+        },
+        {
+            "Address": "Love",
+            "AssetPath": "Assets/Res/Art/Sprite/UI/Common/Love.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 16,
+            "DependIDs": []
+        },
+        {
+            "Address": "ui_an",
+            "AssetPath": "Assets/Res/Art/Sprite/UI/Common/ui_an.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 16,
+            "DependIDs": []
+        },
+        {
+            "Address": "ui_bg",
+            "AssetPath": "Assets/Res/Art/Sprite/UI/Common/ui_bg.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 16,
+            "DependIDs": []
+        },
+        {
+            "Address": "ui_biankuang",
+            "AssetPath": "Assets/Res/Art/Sprite/UI/Common/ui_biankuang.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 16,
+            "DependIDs": []
+        },
+        {
+            "Address": "ui_love_empty",
+            "AssetPath": "Assets/Res/Art/Sprite/UI/Common/ui_love_empty.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 16,
+            "DependIDs": []
+        },
+        {
+            "Address": "ui_x",
+            "AssetPath": "Assets/Res/Art/Sprite/UI/Common/ui_x.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 16,
+            "DependIDs": []
+        },
+        {
+            "Address": "ui_element_cold",
+            "AssetPath": "Assets/Res/Art/Sprite/UI/Element/ui_element_cold.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 17,
+            "DependIDs": []
+        },
+        {
+            "Address": "ui_element_dark",
+            "AssetPath": "Assets/Res/Art/Sprite/UI/Element/ui_element_dark.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 17,
+            "DependIDs": []
+        },
+        {
+            "Address": "ui_element_electric",
+            "AssetPath": "Assets/Res/Art/Sprite/UI/Element/ui_element_electric.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 17,
+            "DependIDs": []
+        },
+        {
+            "Address": "ui_element_hot",
+            "AssetPath": "Assets/Res/Art/Sprite/UI/Element/ui_element_hot.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 17,
+            "DependIDs": []
+        },
+        {
+            "Address": "ui_element_light",
+            "AssetPath": "Assets/Res/Art/Sprite/UI/Element/ui_element_light.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 17,
+            "DependIDs": []
+        },
+        {
+            "Address": "ui_element_rock",
+            "AssetPath": "Assets/Res/Art/Sprite/UI/Element/ui_element_rock.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 17,
+            "DependIDs": []
+        },
+        {
+            "Address": "ui_element_void",
+            "AssetPath": "Assets/Res/Art/Sprite/UI/Element/ui_element_void.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 17,
+            "DependIDs": []
+        },
+        {
+            "Address": "ui_element_wind",
+            "AssetPath": "Assets/Res/Art/Sprite/UI/Element/ui_element_wind.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 17,
+            "DependIDs": []
+        },
+        {
+            "Address": "ui_element_wood",
+            "AssetPath": "Assets/Res/Art/Sprite/UI/Element/ui_element_wood.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 17,
+            "DependIDs": []
+        },
+        {
+            "Address": "role_agumon",
+            "AssetPath": "Assets/Res/Art/Sprite/UI/Role/role_agumon.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 18,
+            "DependIDs": []
+        },
+        {
+            "Address": "role_airdramon",
+            "AssetPath": "Assets/Res/Art/Sprite/UI/Role/role_airdramon.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 18,
+            "DependIDs": []
+        },
+        {
+            "Address": "role_angemon",
+            "AssetPath": "Assets/Res/Art/Sprite/UI/Role/role_angemon.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 18,
+            "DependIDs": []
+        },
+        {
+            "Address": "role_betamon",
+            "AssetPath": "Assets/Res/Art/Sprite/UI/Role/role_betamon.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 18,
+            "DependIDs": []
+        },
+        {
+            "Address": "role_birdramon",
+            "AssetPath": "Assets/Res/Art/Sprite/UI/Role/role_birdramon.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 18,
+            "DependIDs": []
+        },
+        {
+            "Address": "role_botamon",
+            "AssetPath": "Assets/Res/Art/Sprite/UI/Role/role_botamon.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 18,
+            "DependIDs": []
+        },
+        {
+            "Address": "role_devimon",
+            "AssetPath": "Assets/Res/Art/Sprite/UI/Role/role_devimon.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 18,
+            "DependIDs": []
+        },
+        {
+            "Address": "role_elecmon",
+            "AssetPath": "Assets/Res/Art/Sprite/UI/Role/role_elecmon.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 18,
+            "DependIDs": []
+        },
+        {
+            "Address": "role_gabumon",
+            "AssetPath": "Assets/Res/Art/Sprite/UI/Role/role_gabumon.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 18,
+            "DependIDs": []
+        },
+        {
+            "Address": "role_garurumon",
+            "AssetPath": "Assets/Res/Art/Sprite/UI/Role/role_garurumon.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 18,
+            "DependIDs": []
+        },
+        {
+            "Address": "role_greymon",
+            "AssetPath": "Assets/Res/Art/Sprite/UI/Role/role_greymon.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 18,
+            "DependIDs": []
+        },
+        {
+            "Address": "role_kabuterimon",
+            "AssetPath": "Assets/Res/Art/Sprite/UI/Role/role_kabuterimon.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 18,
+            "DependIDs": []
+        },
+        {
+            "Address": "role_koromon",
+            "AssetPath": "Assets/Res/Art/Sprite/UI/Role/role_koromon.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 18,
+            "DependIDs": []
+        },
+        {
+            "Address": "role_mamemon",
+            "AssetPath": "Assets/Res/Art/Sprite/UI/Role/role_mamemon.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 18,
+            "DependIDs": []
+        },
+        {
+            "Address": "role_meramon",
+            "AssetPath": "Assets/Res/Art/Sprite/UI/Role/role_meramon.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 18,
+            "DependIDs": []
+        },
+        {
+            "Address": "role_monzaemon",
+            "AssetPath": "Assets/Res/Art/Sprite/UI/Role/role_monzaemon.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 18,
+            "DependIDs": []
+        },
+        {
+            "Address": "role_numemon",
+            "AssetPath": "Assets/Res/Art/Sprite/UI/Role/role_numemon.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 18,
+            "DependIDs": []
+        },
+        {
+            "Address": "role_punimon",
+            "AssetPath": "Assets/Res/Art/Sprite/UI/Role/role_punimon.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 18,
+            "DependIDs": []
+        },
+        {
+            "Address": "role_seadramon",
+            "AssetPath": "Assets/Res/Art/Sprite/UI/Role/role_seadramon.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 18,
+            "DependIDs": []
+        },
+        {
+            "Address": "role_skull_greymon",
+            "AssetPath": "Assets/Res/Art/Sprite/UI/Role/role_skull_greymon.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 18,
+            "DependIDs": []
+        },
+        {
+            "Address": "role_tunomon",
+            "AssetPath": "Assets/Res/Art/Sprite/UI/Role/role_tunomon.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 18,
+            "DependIDs": []
+        },
+        {
+            "Address": "role_tyranomon",
+            "AssetPath": "Assets/Res/Art/Sprite/UI/Role/role_tyranomon.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 18,
+            "DependIDs": []
+        },
+        {
+            "Address": "role_vademon",
+            "AssetPath": "Assets/Res/Art/Sprite/UI/Role/role_vademon.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 18,
+            "DependIDs": []
+        },
+        {
+            "Address": "role_vegimon",
+            "AssetPath": "Assets/Res/Art/Sprite/UI/Role/role_vegimon.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 18,
+            "DependIDs": []
+        },
+        {
+            "Address": "role_whamon_adult",
+            "AssetPath": "Assets/Res/Art/Sprite/UI/Role/role_whamon_adult.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 18,
+            "DependIDs": []
+        },
+        {
+            "Address": "role_yukidarumon",
+            "AssetPath": "Assets/Res/Art/Sprite/UI/Role/role_yukidarumon.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 18,
+            "DependIDs": []
+        },
+        {
+            "Address": "Common",
+            "AssetPath": "Assets/Res/Atlas/Common.spriteatlasv2",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 19,
+            "DependIDs": []
+        },
+        {
+            "Address": "Element",
+            "AssetPath": "Assets/Res/Atlas/Element.spriteatlasv2",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 20,
+            "DependIDs": []
+        },
+        {
+            "Address": "Role",
+            "AssetPath": "Assets/Res/Atlas/Role.spriteatlasv2",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 21,
+            "DependIDs": []
+        },
+        {
+            "Address": "Scene_Fight1",
+            "AssetPath": "Assets/Scenes/Fight/Fight1/Scene_Fight1.unity",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 22,
+            "DependIDs": []
+        },
+        {
+            "Address": "Scene_Empty",
+            "AssetPath": "Assets/Scenes/Scene_Empty.unity",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 23,
+            "DependIDs": []
+        },
+        {
+            "Address": "Scene_Enter",
+            "AssetPath": "Assets/Scenes/Scene_Enter.unity",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 24,
+            "DependIDs": []
+        },
+        {
+            "Address": "Scene_Home",
+            "AssetPath": "Assets/Scenes/Scene_Home.unity",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 25,
+            "DependIDs": []
+        },
+        {
+            "Address": "MainMixer",
+            "AssetPath": "Assets/Res/Audio/Mixer/MainMixer.mixer",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 26,
+            "DependIDs": []
+        },
+        {
+            "Address": "MusicMixer",
+            "AssetPath": "Assets/Res/Audio/Mixer/MusicMixer.mixer",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 26,
+            "DependIDs": []
+        },
+        {
+            "Address": "SoundMixer",
+            "AssetPath": "Assets/Res/Audio/Mixer/SoundMixer.mixer",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 26,
+            "DependIDs": []
+        },
+        {
+            "Address": "Music_Home",
+            "AssetPath": "Assets/Res/Audio/Music/Music_Home.wav",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 27,
+            "DependIDs": []
+        },
+        {
+            "Address": "Music_KeepOn",
+            "AssetPath": "Assets/Res/Audio/Music/Music_KeepOn.wav",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 28,
+            "DependIDs": []
+        },
+        {
+            "Address": "Sound_UI_Common_Click",
+            "AssetPath": "Assets/Res/Audio/UISound/Sound_UI_Common_Click.wav",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 29,
+            "DependIDs": []
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "assets_res_ui_prefab_bag.bundle",
+            "UnityCRC": 0,
+            "FileHash": "00000000000000000000000000000000",
+            "FileCRC": "00000000",
+            "FileSize": 0,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_res_ui_prefab_common_text.bundle",
+            "UnityCRC": 0,
+            "FileHash": "00000000000000000000000000000000",
+            "FileCRC": "00000000",
+            "FileSize": 0,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_res_ui_prefab_common.bundle",
+            "UnityCRC": 0,
+            "FileHash": "00000000000000000000000000000000",
+            "FileCRC": "00000000",
+            "FileSize": 0,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_res_ui_prefab_equip_common.bundle",
+            "UnityCRC": 0,
+            "FileHash": "00000000000000000000000000000000",
+            "FileCRC": "00000000",
+            "FileSize": 0,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_res_ui_prefab_equip.bundle",
+            "UnityCRC": 0,
+            "FileHash": "00000000000000000000000000000000",
+            "FileCRC": "00000000",
+            "FileSize": 0,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_res_ui_prefab_fight.bundle",
+            "UnityCRC": 0,
+            "FileHash": "00000000000000000000000000000000",
+            "FileCRC": "00000000",
+            "FileSize": 0,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_res_ui_prefab_generic.bundle",
+            "UnityCRC": 0,
+            "FileHash": "00000000000000000000000000000000",
+            "FileCRC": "00000000",
+            "FileSize": 0,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_res_ui_prefab_hero.bundle",
+            "UnityCRC": 0,
+            "FileHash": "00000000000000000000000000000000",
+            "FileCRC": "00000000",
+            "FileSize": 0,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_res_ui_prefab_home.bundle",
+            "UnityCRC": 0,
+            "FileHash": "00000000000000000000000000000000",
+            "FileCRC": "00000000",
+            "FileSize": 0,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_res_ui_prefab_illustration.bundle",
+            "UnityCRC": 0,
+            "FileHash": "00000000000000000000000000000000",
+            "FileCRC": "00000000",
+            "FileSize": 0,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_res_ui_prefab_level.bundle",
+            "UnityCRC": 0,
+            "FileHash": "00000000000000000000000000000000",
+            "FileCRC": "00000000",
+            "FileSize": 0,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_res_ui_prefab_loading.bundle",
+            "UnityCRC": 0,
+            "FileHash": "00000000000000000000000000000000",
+            "FileCRC": "00000000",
+            "FileSize": 0,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_res_ui_prefab_main.bundle",
+            "UnityCRC": 0,
+            "FileHash": "00000000000000000000000000000000",
+            "FileCRC": "00000000",
+            "FileSize": 0,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_res_ui_prefab_setting.bundle",
+            "UnityCRC": 0,
+            "FileHash": "00000000000000000000000000000000",
+            "FileCRC": "00000000",
+            "FileSize": 0,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_res_datatable.bundle",
+            "UnityCRC": 0,
+            "FileHash": "00000000000000000000000000000000",
+            "FileCRC": "00000000",
+            "FileSize": 0,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_res_art_sprite_ui_bg.bundle",
+            "UnityCRC": 0,
+            "FileHash": "00000000000000000000000000000000",
+            "FileCRC": "00000000",
+            "FileSize": 0,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_res_art_sprite_ui_common.bundle",
+            "UnityCRC": 0,
+            "FileHash": "00000000000000000000000000000000",
+            "FileCRC": "00000000",
+            "FileSize": 0,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_res_art_sprite_ui_element.bundle",
+            "UnityCRC": 0,
+            "FileHash": "00000000000000000000000000000000",
+            "FileCRC": "00000000",
+            "FileSize": 0,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_res_art_sprite_ui_role.bundle",
+            "UnityCRC": 0,
+            "FileHash": "00000000000000000000000000000000",
+            "FileCRC": "00000000",
+            "FileSize": 0,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_res_atlas_common.bundle",
+            "UnityCRC": 0,
+            "FileHash": "00000000000000000000000000000000",
+            "FileCRC": "00000000",
+            "FileSize": 0,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_res_atlas_element.bundle",
+            "UnityCRC": 0,
+            "FileHash": "00000000000000000000000000000000",
+            "FileCRC": "00000000",
+            "FileSize": 0,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_res_atlas_role.bundle",
+            "UnityCRC": 0,
+            "FileHash": "00000000000000000000000000000000",
+            "FileCRC": "00000000",
+            "FileSize": 0,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_scenes_fight_fight1_scene_fight1.bundle",
+            "UnityCRC": 0,
+            "FileHash": "00000000000000000000000000000000",
+            "FileCRC": "00000000",
+            "FileSize": 0,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_scenes_scene_empty.bundle",
+            "UnityCRC": 0,
+            "FileHash": "00000000000000000000000000000000",
+            "FileCRC": "00000000",
+            "FileSize": 0,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_scenes_scene_enter.bundle",
+            "UnityCRC": 0,
+            "FileHash": "00000000000000000000000000000000",
+            "FileCRC": "00000000",
+            "FileSize": 0,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_scenes_scene_home.bundle",
+            "UnityCRC": 0,
+            "FileHash": "00000000000000000000000000000000",
+            "FileCRC": "00000000",
+            "FileSize": 0,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_res_audio_mixer.bundle",
+            "UnityCRC": 0,
+            "FileHash": "00000000000000000000000000000000",
+            "FileCRC": "00000000",
+            "FileSize": 0,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_res_audio_music_music_home.bundle",
+            "UnityCRC": 0,
+            "FileHash": "00000000000000000000000000000000",
+            "FileCRC": "00000000",
+            "FileSize": 0,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_res_audio_music_music_keepon.bundle",
+            "UnityCRC": 0,
+            "FileHash": "00000000000000000000000000000000",
+            "FileCRC": "00000000",
+            "FileSize": 0,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_res_audio_uisound_sound_ui_common_click.bundle",
+            "UnityCRC": 0,
+            "FileHash": "00000000000000000000000000000000",
+            "FileCRC": "00000000",
+            "FileSize": 0,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        }
+    ]
+}

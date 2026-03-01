@@ -1,0 +1,23 @@
+using YRFramework.Runtime.Storage;
+
+namespace GamePlay.Runtime.Storage
+{
+    [StorageDataFactory(KEY)]
+    public sealed class Storage_{ClassName}Factory : StorageDataFactoryBase<Storage_{ClassName}Data>, IStorageDataFactory
+    {
+        /// <summary>
+        /// 缓存Key值
+        /// </summary>
+        private const string KEY = nameof(Storage_{ClassName}Data);
+
+        IStorageData IStorageDataFactory.Create()
+        {
+            return new Storage_{ClassName}Data();
+        }
+
+        internal static Storage_{ClassName}Data GetData()
+        {
+            return Get(KEY);
+        }
+    }
+}

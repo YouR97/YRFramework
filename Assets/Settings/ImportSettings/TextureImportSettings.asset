@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f65b9b23862b63749bfeba31af077bea, type: 3}
+  m_Name: TextureImportSettings
+  m_EditorClassIdentifier: 
+  ListSetting:
+  - Name: "\u7ACB\u7ED8"
+    PreName: role_
+    EndDress: .png
+    ImporterType: 8
+    SpriteMode: 1
+    ImporterShape: 1
+    GeneratePhysicShape: 0
+    MaxSize: 2048
+    StandaloneMaxSize: 2048
+    MipMap: 0
+    ForceAlphaSetting: 1
+    Alpha: 1
+    WrapMode: 1
+    IsReadable: 0
+    FilterMode: 1
+    NPOT: 0
+    FormatIos: 50
+    FormatAndroid: 50
+    FormatIosAlpha: 50
+    FormatAndroidAlpha: 50
+    FormatStandalone: -1
+    FormatStandaloneAlpha: -1
+    InspectorFoldOut: 0
+  - Name: ui
+    PreName: ui_
+    EndDress: .png
+    ImporterType: 8
+    SpriteMode: 1
+    ImporterShape: 1
+    GeneratePhysicShape: 0
+    MaxSize: 2048
+    StandaloneMaxSize: 2048
+    MipMap: 0
+    ForceAlphaSetting: 1
+    Alpha: 1
+    WrapMode: 1
+    IsReadable: 0
+    FilterMode: 1
+    NPOT: 0
+    FormatIos: 50
+    FormatAndroid: 50
+    FormatIosAlpha: 50
+    FormatAndroidAlpha: 50
+    FormatStandalone: -1
+    FormatStandaloneAlpha: -1
+    InspectorFoldOut: 1

@@ -1,0 +1,102 @@
+[
+  {
+    "id": 100001,
+    "name": "亚古兽",
+    "icon": "role_agumon"
+  },
+  {
+    "id": 100002,
+    "name": "飞龙兽",
+    "icon": "role_airdramon"
+  },
+  {
+    "id": 100003,
+    "name": "天使兽",
+    "icon": "role_angemon"
+  },
+  {
+    "id": 100004,
+    "name": "比特兽",
+    "icon": "role_betamon"
+  },
+  {
+    "id": 100005,
+    "name": "巴多拉兽",
+    "icon": "role_birdramon"
+  },
+  {
+    "id": 100006,
+    "name": "黑球兽",
+    "icon": "role_botamon"
+  },
+  {
+    "id": 100007,
+    "name": "恶魔兽",
+    "icon": "role_devimon"
+  },
+  {
+    "id": 100008,
+    "name": "加布兽",
+    "icon": "role_gabumon"
+  },
+  {
+    "id": 100009,
+    "name": "加鲁鲁兽",
+    "icon": "role_garurumon"
+  },
+  {
+    "id": 100010,
+    "name": "暴龙兽",
+    "icon": "role_greymon"
+  },
+  {
+    "id": 100011,
+    "name": "比多兽",
+    "icon": "role_kabuterimon"
+  },
+  {
+    "id": 100012,
+    "name": "雪人兽",
+    "icon": "role_yukidarumon"
+  },
+  {
+    "id": 100013,
+    "name": "火焰兽",
+    "icon": "role_meramon"
+  },
+  {
+    "id": 100014,
+    "name": "暗机械暴龙兽",
+    "icon": "role_metal_greymon_blue"
+  },
+  {
+    "id": 100015,
+    "name": "黑暗熊仔兽",
+    "icon": "role_monzaemon"
+  },
+  {
+    "id": 100016,
+    "name": "鼻涕兽",
+    "icon": "role_numemon"
+  },
+  {
+    "id": 100017,
+    "name": "海龙兽",
+    "icon": "role_seadramon"
+  },
+  {
+    "id": 100018,
+    "name": "骷髅暴龙兽",
+    "icon": "role_skull_greymon"
+  },
+  {
+    "id": 100019,
+    "name": "外星人兽",
+    "icon": "role_vademon"
+  },
+  {
+    "id": 100020,
+    "name": "巨鲸兽",
+    "icon": "role_whamon_adult"
+  }
+]

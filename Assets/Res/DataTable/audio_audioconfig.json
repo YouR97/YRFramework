@@ -1,0 +1,17 @@
+[
+  {
+    "key": "Music_1",
+    "path": "Music_Home",
+    "volume": 0.5
+  },
+  {
+    "key": "Music_2",
+    "path": "Music_KeepOn",
+    "volume": 0.1
+  },
+  {
+    "key": "UISound_CommonClick",
+    "path": "Sound_UI_Common_Click",
+    "volume": 1
+  }
+]

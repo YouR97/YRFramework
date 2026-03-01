@@ -1,0 +1,16 @@
+{
+    "name": "LubanCfg",
+    "rootNamespace": "",
+    "references": [
+        "GUID:06d8f552f2ed43642aed971136124a62"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

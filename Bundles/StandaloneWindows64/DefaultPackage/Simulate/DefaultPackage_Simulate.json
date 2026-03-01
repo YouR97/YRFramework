@@ -1,0 +1,572 @@
+{
+    "FileVersion": "2025.9.30",
+    "EnableAddressable": true,
+    "SupportExtensionless": true,
+    "LocationToLower": false,
+    "IncludeAssetGUID": true,
+    "ReplaceAssetPathWithAddress": false,
+    "OutputNameStyle": 0,
+    "BuildBundleType": 1,
+    "BuildPipeline": "EditorSimulateBuildPipeline",
+    "PackageName": "DefaultPackage",
+    "PackageVersion": "Simulate",
+    "PackageNote": "2026/3/1 23:26:23",
+    "AssetList": [
+        {
+            "Address": "audio_audioconfig",
+            "AssetPath": "Assets/Configs/DataTable/audio_audioconfig.json",
+            "AssetGUID": "768fa6dea3346da4ba3871b07a53c4c0",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "enemy_enemyconfig",
+            "AssetPath": "Assets/Configs/DataTable/enemy_enemyconfig.json",
+            "AssetGUID": "9cfe0ea46cfb81647912190e12581661",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "entity_entityconfig",
+            "AssetPath": "Assets/Configs/DataTable/entity_entityconfig.json",
+            "AssetGUID": "853a9396d79e92143b930cbd8096c815",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "level_levelconfig",
+            "AssetPath": "Assets/Configs/DataTable/level_levelconfig.json",
+            "AssetGUID": "b70ea8d1ef66e95409a84ae8731ea4cc",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Music_Home",
+            "AssetPath": "Assets/Res/Audio/Music/Music_Home.wav",
+            "AssetGUID": "5d343bf8248bc484089816d691e66758",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Music_KeepOn",
+            "AssetPath": "Assets/Res/Audio/Music/Music_KeepOn.wav",
+            "AssetGUID": "4395f676074805b4fbc791050cdc864a",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Sound_UI_Common_Click",
+            "AssetPath": "Assets/Res/Audio/UISound/Sound_UI_Common_Click.wav",
+            "AssetGUID": "2e3cef4646b6f144698e3c6895003707",
+            "AssetTags": [],
+            "BundleID": 2,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "UI_Bag",
+            "AssetPath": "Assets/Res/UI/Prefab/Bag/UI_Bag.prefab",
+            "AssetGUID": "ee92622d3c857e54794be830bb7d80cc",
+            "AssetTags": [],
+            "BundleID": 3,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "TextBlue",
+            "AssetPath": "Assets/Res/UI/Prefab/Common/Text/TextBlue.prefab",
+            "AssetGUID": "2cb58c6ea6006c841944bf0488ec9a8e",
+            "AssetTags": [],
+            "BundleID": 4,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "TextGreen",
+            "AssetPath": "Assets/Res/UI/Prefab/Common/Text/TextGreen.prefab",
+            "AssetGUID": "831477d86527f274392c7a4fdb3f5c5f",
+            "AssetTags": [],
+            "BundleID": 5,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "TextOrange",
+            "AssetPath": "Assets/Res/UI/Prefab/Common/Text/TextOrange.prefab",
+            "AssetGUID": "f30dab633d03a9e4ca04cddb04743a5e",
+            "AssetTags": [],
+            "BundleID": 6,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "TextPink",
+            "AssetPath": "Assets/Res/UI/Prefab/Common/Text/TextPink.prefab",
+            "AssetGUID": "051a1e46ddf55684ea2f3cdbe8302ef9",
+            "AssetTags": [],
+            "BundleID": 7,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "TextPurple",
+            "AssetPath": "Assets/Res/UI/Prefab/Common/Text/TextPurple.prefab",
+            "AssetGUID": "4208cb96c51168e45933b1dd635add98",
+            "AssetTags": [],
+            "BundleID": 8,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "TextRed",
+            "AssetPath": "Assets/Res/UI/Prefab/Common/Text/TextRed.prefab",
+            "AssetGUID": "16ba0167e24ba544ab00b792b92069a3",
+            "AssetTags": [],
+            "BundleID": 9,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "TextWhite",
+            "AssetPath": "Assets/Res/UI/Prefab/Common/Text/TextWhite.prefab",
+            "AssetGUID": "f7407ab56dfb2bd459870dd912cf4c05",
+            "AssetTags": [],
+            "BundleID": 10,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "UIRawImageGaussianBlur",
+            "AssetPath": "Assets/Res/UI/Prefab/Common/UIRawImageGaussianBlur.prefab",
+            "AssetGUID": "e3b4af9594e4e244dbb1eb5aaa548766",
+            "AssetTags": [],
+            "BundleID": 11,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "EquipInfoLine",
+            "AssetPath": "Assets/Res/UI/Prefab/Equip/Common/EquipInfoLine.prefab",
+            "AssetGUID": "37125a6ae51f450498c24df5d1bad84c",
+            "AssetTags": [],
+            "BundleID": 12,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "UIEquipInfo",
+            "AssetPath": "Assets/Res/UI/Prefab/Equip/UIEquipInfo.prefab",
+            "AssetGUID": "70517210a356aed479694e6e3ca91a8e",
+            "AssetTags": [],
+            "BundleID": 13,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "UI_Fight",
+            "AssetPath": "Assets/Res/UI/Prefab/Fight/UI_Fight.prefab",
+            "AssetGUID": "40173d9756c75f743b4fe2e600be1623",
+            "AssetTags": [],
+            "BundleID": 14,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "UI_Dialog",
+            "AssetPath": "Assets/Res/UI/Prefab/Generic/UI_Dialog.prefab",
+            "AssetGUID": "d7b485341aa46324496601fecf4681bb",
+            "AssetTags": [],
+            "BundleID": 15,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "UI_HeroSelect",
+            "AssetPath": "Assets/Res/UI/Prefab/Hero/UI_HeroSelect.prefab",
+            "AssetGUID": "f32ea24e80f01eb45a088043413f4bc7",
+            "AssetTags": [],
+            "BundleID": 16,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "UI_Home",
+            "AssetPath": "Assets/Res/UI/Prefab/Home/UI_Home.prefab",
+            "AssetGUID": "bf3f14a591a361d4ba56f77561071708",
+            "AssetTags": [],
+            "BundleID": 17,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "UI_Illustration",
+            "AssetPath": "Assets/Res/UI/Prefab/Illustration/UI_Illustration.prefab",
+            "AssetGUID": "a43fd86911b578b44a6abf54fb58b6a7",
+            "AssetTags": [],
+            "BundleID": 18,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "UI_LevelMap",
+            "AssetPath": "Assets/Res/UI/Prefab/Level/UI_LevelMap.prefab",
+            "AssetGUID": "da90d15d35fe1784fb86eaf17b226989",
+            "AssetTags": [],
+            "BundleID": 19,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "UI_LevelSelect",
+            "AssetPath": "Assets/Res/UI/Prefab/Level/UI_LevelSelect.prefab",
+            "AssetGUID": "624a6cdc5bb35e64f8a3036026f8a24c",
+            "AssetTags": [],
+            "BundleID": 20,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "UI_BlackLoading",
+            "AssetPath": "Assets/Res/UI/Prefab/Loading/UI_BlackLoading.prefab",
+            "AssetGUID": "0ed7b114e2d3ca04d87c3b0dc2466afd",
+            "AssetTags": [],
+            "BundleID": 21,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "UI_Loading",
+            "AssetPath": "Assets/Res/UI/Prefab/Loading/UI_Loading.prefab",
+            "AssetGUID": "adcb1234653fd5c4780e1753cd2a2a67",
+            "AssetTags": [],
+            "BundleID": 22,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "UI_Main",
+            "AssetPath": "Assets/Res/UI/Prefab/Main/UI_Main.prefab",
+            "AssetGUID": "37ec61bd77d75834e93900a72225c934",
+            "AssetTags": [],
+            "BundleID": 23,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "UI_Setting",
+            "AssetPath": "Assets/Res/UI/Prefab/Setting/UI_Setting.prefab",
+            "AssetGUID": "3d48abf631c30164fb850f7391cd5301",
+            "AssetTags": [],
+            "BundleID": 24,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Scene_Fight1",
+            "AssetPath": "Assets/Scenes/Fight/Fight1/Scene_Fight1.unity",
+            "AssetGUID": "dbe1eabc4a44b1649940a5f1802106b6",
+            "AssetTags": [],
+            "BundleID": 25,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Scene_Empty",
+            "AssetPath": "Assets/Scenes/Scene_Empty.unity",
+            "AssetGUID": "d7dd4fff8db478f46849bd5ca233ffb6",
+            "AssetTags": [],
+            "BundleID": 26,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Scene_Enter",
+            "AssetPath": "Assets/Scenes/Scene_Enter.unity",
+            "AssetGUID": "8c9cfa26abfee488c85f1582747f6a02",
+            "AssetTags": [],
+            "BundleID": 27,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Scene_Home",
+            "AssetPath": "Assets/Scenes/Scene_Home.unity",
+            "AssetGUID": "dbbeb7134192ba84481102634204681b",
+            "AssetTags": [],
+            "BundleID": 28,
+            "DependBundleIDs": []
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "assets_configs_datatable.bundle",
+            "UnityCRC": 0,
+            "FileHash": "1ca89798c6694a3a0559d6e72bad820a",
+            "FileCRC": 0,
+            "FileSize": 3505,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_res_audio_music.bundle",
+            "UnityCRC": 0,
+            "FileHash": "9617d38f6b985a9dba51b9b434c98dba",
+            "FileCRC": 0,
+            "FileSize": 60038002,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_res_audio_uisound.bundle",
+            "UnityCRC": 0,
+            "FileHash": "86394e9db38ec7d47b152ff31ab334bb",
+            "FileCRC": 0,
+            "FileSize": 15722,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_res_ui_prefab_bag_ui_bag.bundle",
+            "UnityCRC": 0,
+            "FileHash": "db816da3776bf1362fb8f7fe7a10e963",
+            "FileCRC": 0,
+            "FileSize": 33722,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_res_ui_prefab_common_text_textblue.bundle",
+            "UnityCRC": 0,
+            "FileHash": "5686e72ea2149a25d43cb16f53a2a191",
+            "FileCRC": 0,
+            "FileSize": 4082,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_res_ui_prefab_common_text_textgreen.bundle",
+            "UnityCRC": 0,
+            "FileHash": "f47a6d6d0be61cbf649df78c983680b7",
+            "FileCRC": 0,
+            "FileSize": 4028,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_res_ui_prefab_common_text_textorange.bundle",
+            "UnityCRC": 0,
+            "FileHash": "5706ab03a71aec33302e7f77922b0f3b",
+            "FileCRC": 0,
+            "FileSize": 4029,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_res_ui_prefab_common_text_textpink.bundle",
+            "UnityCRC": 0,
+            "FileHash": "dfdca95d48ab76d6c62041f518162291",
+            "FileCRC": 0,
+            "FileSize": 4027,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_res_ui_prefab_common_text_textpurple.bundle",
+            "UnityCRC": 0,
+            "FileHash": "615726a30a51318aabb29e6a01f22ffc",
+            "FileCRC": 0,
+            "FileSize": 4029,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_res_ui_prefab_common_text_textred.bundle",
+            "UnityCRC": 0,
+            "FileHash": "27f35816ee110cb18f8441a5838912d4",
+            "FileCRC": 0,
+            "FileSize": 4026,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_res_ui_prefab_common_text_textwhite.bundle",
+            "UnityCRC": 0,
+            "FileHash": "cdcfcdb895c983d8fb009c00155457e6",
+            "FileCRC": 0,
+            "FileSize": 4083,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_res_ui_prefab_common_uirawimagegaussianblur.bundle",
+            "UnityCRC": 0,
+            "FileHash": "c6560e95929cb7fcc92c5983fb0ce041",
+            "FileCRC": 0,
+            "FileSize": 2080,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_res_ui_prefab_equip_common_equipinfoline.bundle",
+            "UnityCRC": 0,
+            "FileHash": "22541d358dca0049f69f11c60c78c701",
+            "FileCRC": 0,
+            "FileSize": 2256,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_res_ui_prefab_equip_uiequipinfo.bundle",
+            "UnityCRC": 0,
+            "FileHash": "2eb9a3ca0ce114119896e2c1278e72ac",
+            "FileCRC": 0,
+            "FileSize": 169791,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_res_ui_prefab_fight_ui_fight.bundle",
+            "UnityCRC": 0,
+            "FileHash": "f2ea1030752bde8503c4c10170297d2c",
+            "FileCRC": 0,
+            "FileSize": 143116,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_res_ui_prefab_generic_ui_dialog.bundle",
+            "UnityCRC": 0,
+            "FileHash": "08887aa9900b943ffaa9f7dc17d6bcc6",
+            "FileCRC": 0,
+            "FileSize": 40407,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_res_ui_prefab_hero_ui_heroselect.bundle",
+            "UnityCRC": 0,
+            "FileHash": "dae7b5fe267c08e7a271c70e52e8d29f",
+            "FileCRC": 0,
+            "FileSize": 83399,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_res_ui_prefab_home_ui_home.bundle",
+            "UnityCRC": 0,
+            "FileHash": "ff0823b4275fb2c9711251a5a681e10f",
+            "FileCRC": 0,
+            "FileSize": 37664,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_res_ui_prefab_illustration_ui_illustration.bundle",
+            "UnityCRC": 0,
+            "FileHash": "34959b0bf37445b804a2e810e86edbbc",
+            "FileCRC": 0,
+            "FileSize": 12569,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_res_ui_prefab_level_ui_levelmap.bundle",
+            "UnityCRC": 0,
+            "FileHash": "50b6fcb070294444541fe740021d8169",
+            "FileCRC": 0,
+            "FileSize": 29374,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_res_ui_prefab_level_ui_levelselect.bundle",
+            "UnityCRC": 0,
+            "FileHash": "eaae295ea2e1b64e4dd53f322d37af3d",
+            "FileCRC": 0,
+            "FileSize": 29252,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_res_ui_prefab_loading_ui_blackloading.bundle",
+            "UnityCRC": 0,
+            "FileHash": "02d9ed623e684da22ec516d0798bd072",
+            "FileCRC": 0,
+            "FileSize": 9389,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_res_ui_prefab_loading_ui_loading.bundle",
+            "UnityCRC": 0,
+            "FileHash": "965bc95e5f1944483862189fb367b755",
+            "FileCRC": 0,
+            "FileSize": 20413,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_res_ui_prefab_main_ui_main.bundle",
+            "UnityCRC": 0,
+            "FileHash": "f5704b904948dcc8761c0e1a1aeacd0b",
+            "FileCRC": 0,
+            "FileSize": 22020,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_res_ui_prefab_setting_ui_setting.bundle",
+            "UnityCRC": 0,
+            "FileHash": "1ea133a9e615e29830c09f65c505b554",
+            "FileCRC": 0,
+            "FileSize": 215205,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_scenes_fight_fight1_scene_fight1.bundle",
+            "UnityCRC": 0,
+            "FileHash": "4cf8017f65de48dbcdcb311720dd4c0e",
+            "FileCRC": 0,
+            "FileSize": 49291,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_scenes_scene_empty.bundle",
+            "UnityCRC": 0,
+            "FileHash": "d9a2316332018bf8b624ce628dd52cc0",
+            "FileCRC": 0,
+            "FileSize": 3410,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_scenes_scene_enter.bundle",
+            "UnityCRC": 0,
+            "FileHash": "44ff33ea6fab6824a5127b95d66cb43b",
+            "FileCRC": 0,
+            "FileSize": 6024,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_scenes_scene_home.bundle",
+            "UnityCRC": 0,
+            "FileHash": "11ea0ce7a57ec63ea375224477579b6f",
+            "FileCRC": 0,
+            "FileSize": 3433,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        }
+    ]
+}

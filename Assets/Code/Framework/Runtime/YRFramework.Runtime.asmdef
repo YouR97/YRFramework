@@ -1,0 +1,23 @@
+{
+    "name": "YRFremework",
+    "rootNamespace": "",
+    "references": [
+        "GUID:eec0964c48f6f4e40bc3ec2257ccf8c5",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:84651a3751eca9349aac36a66bba901b",
+        "GUID:4ade5f9ff8f78894aa269e9ca52b673f",
+        "GUID:06d8f552f2ed43642aed971136124a62",
+        "GUID:25cbdb2249ab00149a79af662520c1e4",
+        "GUID:fc479594d270aa04aaf91b4bb975e77a",
+        "GUID:e34a5702dd353724aa315fb8011f08c3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

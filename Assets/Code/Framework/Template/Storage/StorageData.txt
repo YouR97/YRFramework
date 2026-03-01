@@ -1,0 +1,11 @@
+using YRFramework.Runtime.Storage;
+
+namespace GamePlay.Runtime.Storage
+{
+    public sealed class Storage_{ClassName}Data : StorageDataBase
+    {
+        internal Storage_{ClassName}Data()
+        {
+        }
+    }
+}
